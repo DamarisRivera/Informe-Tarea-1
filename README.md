@@ -70,7 +70,7 @@ La notación cientifica varia
 	
 	(c) (4.2x10^(8)) ÷ (2x10^(-5))         →  (4.2x10^(8))/(2x10^(-5))      →   2.1x10^(8+5)   →  2.1x10^(13)
 	
-SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos 
+##### *SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos*
 
 ##### 14. Exprese cada número en notación de ingeniería: 
 	
@@ -97,14 +97,52 @@ SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos
 	(c) 100(55x10^(-3))               →
 
 ##### 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico. 
-##### 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: (a) (b) (c) 
-##### 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos: (a) (b) (c) 
-##### 26. Exprese cada cantidad en notación de ingeniería: (a) 5 A (b) 43 mV (c) 275 k (d) 10 MW 
 
-SECCIÓN 1–4 Conversiones de unidades métricas 
+##### 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: 
+	
+	(a) 
+	
+	(b) 
+	
+	(c) 
+	
+##### 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos: 
+	
+	(a) 
+	
+	(b) 
+	
+	(c) 
+	
+##### 26. Exprese cada cantidad en notación de ingeniería: 
+	
+	(a) 5 A 
+	
+	(b) 43 mV 
+	
+	(c) 275 k 
+	
+	(d) 10 MW 
 
-##### 28. Determine lo siguiente: (a) El número de microamperes en 1 miliampere (b) El número de milivolts en 0.05 kilovolts (c) El número de megohms en 0.02 kilohms (d) El número de kilowatts en 155 miliwatts 
-##### 30. Realice las siguientes operaciones: (a) (b) (c) 
+##### *SECCIÓN 1–4 Conversiones de unidades métricas*
+
+##### 28. Determine lo siguiente: 
+	
+	(a) El número de microamperes en 1 miliampere 
+	
+	(b) El número de milivolts en 0.05 kilovolts 
+	
+	(c) El número de megohms en 0.02 kilohms 
+	
+	(d) El número de kilowatts en 155 miliwatts 
+	
+##### 30. Realice las siguientes operaciones: 
+	
+	(a) 
+	
+	(b) 
+	
+	(c) 
 
 ## 4. Video
 
