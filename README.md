@@ -54,7 +54,7 @@ SECCIÓN 1-2 	Notación científica
 	
 	(c) 4.0x10^(-12)   →    0.000000000004
 	
-10. Efectúe las siguientes sustracciones: 
+##### 10. Efectúe las siguientes sustracciones: 
  	
  	(a) (3.2x10^(12)) - (1.1x10^(12))    →   3.2 - 1.1 = 2.1    →   2.1x10^(12)
 	
@@ -62,7 +62,7 @@ SECCIÓN 1-2 	Notación científica
 	
 	(c) (1.5x10^(-12)) - (8x10^(-13))    →
 
-12. Realice las siguientes divisiones: 
+##### 12. Realice las siguientes divisiones: 
 
 	(a) (1.0x10^(3)) ÷ (2.5x10^(2))        →
 	
@@ -72,7 +72,7 @@ SECCIÓN 1-2 	Notación científica
 	
 SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos 
 
-14. Exprese cada número en notación de ingeniería: 
+##### 14. Exprese cada número en notación de ingeniería: 
 	
 	(a) 2.35x10^(5)    →
 	
@@ -80,7 +80,7 @@ SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos
 	
 	(c) 1.333x10^(9)   →
 	
-16. Exprese cada número en notación de ingeniería: 
+##### 16. Exprese cada número en notación de ingeniería: 
 	
 	(a) 9.81x10^(-3)    →
 	
@@ -88,7 +88,7 @@ SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos
 	
 	(c) 4.38x10^(-7)    →
 	
-18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería: 
+##### 18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería: 
 	
 	(a) (32x10^(-3))(56x10^(3))       →
 	
@@ -96,15 +96,15 @@ SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos
 	
 	(c) 100(55x10^(-3))               →
 
-20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico. 
-22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: (a) (b) (c) 
-24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos: (a) (b) (c) 
-26. Exprese cada cantidad en notación de ingeniería: (a) 5 A (b) 43 mV (c) 275 k (d) 10 MW 
+##### 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico. 
+##### 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: (a) (b) (c) 
+##### 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos: (a) (b) (c) 
+##### 26. Exprese cada cantidad en notación de ingeniería: (a) 5 A (b) 43 mV (c) 275 k (d) 10 MW 
 
 SECCIÓN 1–4 Conversiones de unidades métricas 
 
-28. Determine lo siguiente: (a) El número de microamperes en 1 miliampere (b) El número de milivolts en 0.05 kilovolts (c) El número de megohms en 0.02 kilohms (d) El número de kilowatts en 155 miliwatts 
-30. Realice las siguientes operaciones: (a) (b) (c) 
+##### 28. Determine lo siguiente: (a) El número de microamperes en 1 miliampere (b) El número de milivolts en 0.05 kilovolts (c) El número de megohms en 0.02 kilohms (d) El número de kilowatts en 155 miliwatts 
+##### 30. Realice las siguientes operaciones: (a) (b) (c) 
 
 ## 4. Video
 
