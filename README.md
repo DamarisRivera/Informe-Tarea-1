@@ -16,19 +16,19 @@ La notación cientifica varia
 
 ## 3. Explicación y resolución de ejercicios 
 
-CAPITULO 1 
+#### CAPITULO 1 
 
-PROBLEMAS 
+#### PROBLEMAS 
 
-SECCIÓN 1-2 	Notación científica 
+##### *SECCIÓN 1-2 	Notación científica*
 	
 ##### 2. Exprese cada número fraccionario en notación científica: 
 
-	(a) 1/500              	        →0.002       →    2×10^(-3)		
+	(a) 1/500              	        →  0.002       →    2×10^(-3)		
 
-	(b) 1/2000           		→0.0005      →    5×10^(-4)
+	(b) 1/2000           		→  0.0005      →    5×10^(-4)
 
-	(c) 1/5,000,000			→0.0000002   →    2×10^(-7) 
+	(c) 1/5,000,000			→  0.0000002   →    2×10^(-7) 
 
 ##### 4. Exprese cada uno de los números siguientes en notación científica: 
 
@@ -58,17 +58,17 @@ SECCIÓN 1-2 	Notación científica
  	
  	(a) (3.2x10^(12)) - (1.1x10^(12))    →   3.2 - 1.1 = 2.1    →   2.1x10^(12)
 	
-	(b) (2.6x10^(8)) - (1.3x10^(7))  → (1.3x10^(7)) - (26x10^(7))  →  1.3 -26  → 24.7x10^(7) 
+	(b) (2.6x10^(8)) - (1.3x10^(7))      →   (1.3x10^(7)) - (26x10^(7))  →  1.3 -26  → 24.7x10^(7) 
 	
-	(c) (1.5x10^(-12)) - (8x10^(-13))    →
+	(c) (1.5x10^(-12)) - (8x10^(-13))    →   (1.5x10^(-12)) - (0.8x10^(-12))  →  0.7x10^(-12)
 
 ##### 12. Realice las siguientes divisiones: 
 
-	(a) (1.0x10^(3)) ÷ (2.5x10^(2))        →
+	(a) (1.0x10^(3)) ÷ (2.5x10^(2))        →  (1.0x10^(3))/(2.5x10^(2))     →   0.4x10^(3-2)   →  0.4x10^(1)
 	
-	(b) (2.5x10^(-6)) ÷ (5.0x10^(-8))      →
+	(b) (2.5x10^(-6)) ÷ (5.0x10^(-8))      →  (2.5x10^(-6))/(5.0x10^(-8))   →   0.5x10^(-6+8)  →  0.5x10^(2)
 	
-	(c) (4.2x10^(8)) ÷ (2x10^(-5))         →
+	(c) (4.2x10^(8)) ÷ (2x10^(-5))         →  (4.2x10^(8))/(2x10^(-5))      →   2.1x10^(8+5)   →  2.1x10^(13)
 	
 SECCIÓN 1–3 	Notación de ingeniería y prefijos métricos 
 
