@@ -98,31 +98,37 @@ La notación cientifica varia
 
 ##### 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico. 
 
+	(a) 89,000                  →
+	
+	(b) 450,000                 →
+	
+	(c) 12,040,000,000,000      →
+
 ##### 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: 
 	
-	(a) 
+	(a) 31x10^(-3) A   →
 	
-	(b) 
+	(b) 5.5x10^(3) V   →
 	
-	(c) 
+	(c) 20x10^(-12) F  →
 	
 ##### 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos: 
 	
-	(a) 
+	(a) 2.5x10^(-12) A     →
 	
-	(b) 
+	(b) 8x10^(9) Hz        →
 	
-	(c) 
+	(c) 4.7x10^(3) Ω       →
 	
 ##### 26. Exprese cada cantidad en notación de ingeniería: 
 	
-	(a) 5 A 
+	(a) 5 μA         →  
 	
-	(b) 43 mV 
+	(b) 43 mV        →
 	
-	(c) 275 k 
+	(c) 275 kΩ       →
 	
-	(d) 10 MW 
+	(d) 10 MW        →
 
 ##### *SECCIÓN 1–4 Conversiones de unidades métricas*
 
@@ -138,11 +144,11 @@ La notación cientifica varia
 	
 ##### 30. Realice las siguientes operaciones: 
 	
-	(a) 
+	(a) 10 kΩ ÷ (2.2 kΩ + 10 kΩ)   →
 	
-	(b) 
+	(b) 250 mV ÷ 50 μA             →
 	
-	(c) 
+	(c) 1 MW ÷ 2kW                 →
 
 ## 4. Video
 
