@@ -22,7 +22,7 @@ PROBLEMAS
 
 SECCIÓN 1-2 	Notación científica 
 	
-2. Exprese cada número fraccionario en notación científica: 
+##### 2. Exprese cada número fraccionario en notación científica: 
 
 	(a) 1/500              	        →0.002       →    2×10^(-3)		
 
@@ -30,7 +30,7 @@ SECCIÓN 1-2 	Notación científica
 
 	(c) 1/5,000,000			→0.0000002   →    2×10^(-7) 
 
-4. Exprese cada uno de los números siguientes en notación científica: 
+##### 4. Exprese cada uno de los números siguientes en notación científica: 
 
 	(a) 0.0002 	                     →  2×10^(-4)
 	
@@ -38,7 +38,7 @@ SECCIÓN 1-2 	Notación científica
 	
 	(c) 7.8×10^(-2)                      →  7.8×10^(-2)
 
-6. Exprese cada uno de los números siguientes como un número decimal regular: 
+##### 6. Exprese cada uno de los números siguientes como un número decimal regular: 
 	
 	(a) 2x10^(5)	    →   200000
 	
@@ -46,7 +46,7 @@ SECCIÓN 1-2 	Notación científica
 	
 	(c) 1.0x10^(1)      →   10
 	
-8. Exprese cada número de los siguientes como un número decimal regular: 
+##### 8. Exprese cada número de los siguientes como un número decimal regular: 
 	
 	(a) 4.5x10^(-6)    →    0.0000045
 	
