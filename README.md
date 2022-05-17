@@ -158,33 +158,37 @@ La notación cientifica varia
 
 ##### 2. ¿Cuál es la carga  en coulombs del núcleo de un átomo de cloro?
 
-	4.64x10^(-18) C
+	17(1.6x10)^(-19))/6.25x10^(18)  →  4.64x10^(-18) C
 
-##### 4. ¿Cuántos electrones se requierenpara producir 80 μC (microcoulombs) de carga?
+##### 4. ¿Cuántos electrones se requieren para producir 80 μC (microcoulombs) de carga?
 
-
+	
 
 ##### *SECCIÓN 2-3 Voltaje, corriente y resistencia*
 
 ##### 6. ¿Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
-
+	V = W/Q = 500 J/100 C = 5 V
 
 ##### 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 
-
+	W = VxQ = (12 V)(2.5 C) = 30 J
 
 ##### 10. Determine la corriente en cada uno de los siguientes casos: 
 	
-	(a) 75 C en 1 s 
+	(a) 75 C en 1 s      →   I = Q/t   →  75 C/1 s    → 75 A
 	
-	(b) 10 C en 0.5 s 
+	(b) 10 C en 0.5 s    →   I = Q/t   →  10 C/0.5 s  → 20 A
 	
-	(c) 5 C en 2 s
+	(c) 5 C en 2 s       →   I = Q/t   →  5 C/2 s     → 2.5 A
 
 ##### 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
+	t = Q/I  →   t = 10 C/5 A    →   t = 2 s
+
 ##### 14. 5.74x10^(17) electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+	
 
 ##### 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 	
@@ -261,6 +265,8 @@ La notación cientifica varia
 ![](https://github.com/DamarisRivera/InformeTarea/blob/c86e76143080b5916367e8989c039276b768604f/Screenshot%202022-05-16%20193022.png)
 
 ##### 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+	
 
 ## 4. Video
 
