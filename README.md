@@ -206,7 +206,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ##### 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿Cuál es la corriente en la carga?
 
-	
+		
 
 ##### *SECCIÓN 2-5 Resistores*
 
@@ -247,7 +247,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 ##### 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
 ![](https://github.com/DamarisRivera/InformeTarea/blob/9fd092473bde1a295aaeb916100351a0d61568f8/Screenshot%202022-05-16%20191658.png)
 
-
+	
 
 ##### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
@@ -264,6 +264,8 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 ##### 38. Explique cómo mediría la resistencia de R2 en la figura 2-72
 
 ![](https://github.com/DamarisRivera/InformeTarea/blob/1859a4fd9e32f4a28395534f126fae8e63d869a2/Screenshot%202022-05-16%20192345.png)
+
+	Para medir la resistencia se debe separar del circuito en caso de querer saber solo el valor de la resistencia, si se mide la resistencia dentro del circuito el valor va a ser influenciado por el mismo. 
 
 ##### 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor
 
