@@ -155,15 +155,24 @@ La notación cientifica varia
 #### PROBLEMAS
 
 ##### *SECCIÓN 2-2 Carga eléctrica*
+
 ##### 2. ¿Cuál es la carga  en coulombs del núcleo de un átomo de cloro?
 
+	4.64x10^(-18) C
+
 ##### 4. ¿Cuántos electrones se requierenpara producir 80 μC (microcoulombs) de carga?
+
+
 
 ##### *SECCIÓN 2-3 Voltaje, corriente y resistencia*
 
 ##### 6. ¿Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
+
+
 ##### 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+
 
 ##### 10. Determine la corriente en cada uno de los siguientes casos: 
 	
