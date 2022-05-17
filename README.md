@@ -150,6 +150,83 @@ La notación cientifica varia
 	
 	(c) 1 MW ÷ 2kW                 →
 
+#### CAPÍTULO 2
+
+#### PROBLEMAS
+
+##### *SECCIÓN 2-2 Carga eléctrica*
+##### 2. ¿Cuál es la carga  en coulombs del núcleo de un átomo de cloro?
+
+##### 4. ¿Cuántos electrones se requierenpara producir 80 μC (microcoulombs) de carga?
+
+##### *SECCIÓN 2-3 Voltaje, corriente y resistencia*
+
+##### 6. ¿Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+
+##### 8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+
+##### 10. Determine la corriente en cada uno de los siguientes casos: 
+	
+	(a) 75 C en 1 s 
+	
+	(b) 10 C en 0.5 s 
+	
+	(c) 5 C en 2 s
+
+##### 12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+
+##### 14. 5.74x10^(17) electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+
+##### 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
+	
+	(a) 0.1 S 
+	
+	(b) 0.5 S 
+	
+	(c) 0.02 S
+	
+##### *SECCIÓN 2-4 Fuentes de voltaje y de corriente*
+
+##### 18. ¿En qué principio se basan los generadores eléctricos?
+
+##### 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿Cuál es la corriente en la carga?
+
+##### *SECCIÓN 2-5 Resistores*
+
+##### 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
+
+##### 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+	(a) café, negro, negro, oro
+	
+	(b) verde, café, verde, plata
+	
+	(c) azul, gris, negro, oro
+
+##### 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+	(a) rojo, gris, violeta, rojo, café
+	
+	(b) azul, negro, amarillo, oro, café
+	
+	(c) blanco, naranja, café, café, café
+
+##### 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω , ¿Cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+##### 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+	
+	(a) 4R7J 
+	
+	(b) 5602M 
+	
+	(c) 1501F
+
+##### *SECCIÓN 2-6 El circuito eléctrico*
+
+##### 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+
+
+
 ## 4. Video
 
 
