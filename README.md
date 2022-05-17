@@ -212,7 +212,11 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ##### 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿Cuál es la corriente en la carga?
 
-		
+	V = I*R = 100 mA * 1 kΩ = 100 V
+
+	Icarga = V/R = 100/500 = 0.2 A = 200 mA
+	
+	Al disminuir la resistencia a la mitad, como es de esperar, se duplica la corriente
 
 ##### *SECCIÓN 2-5 Resistores*
 
@@ -227,7 +231,6 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 	
 	1800*0.1 1800*0.1 =180Ω    →    1800 + 180=1,980Ω =1,980Ω máxima
 	00*0.1 1800*0.1 =180Ω      →    1800 -180 =1,620Ω =1,620Ω mínima
-1800*0.1 1800*0.1 =180Ω 1800 -180 =1,620Ω =1,620Ω mínima
 
 ##### 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
@@ -247,7 +250,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ##### 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω , ¿Cuál es la resistencia entre cada terminal y el contacto ajustable?
 
-	
+![](https://github.com/DamarisRivera/InformeTarea/blob/224da56cb581562673e381b89b5c066245d24495/cap1.png)
 
 ##### 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 	
@@ -262,7 +265,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 ##### 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
 ![](https://github.com/DamarisRivera/InformeTarea/blob/9fd092473bde1a295aaeb916100351a0d61568f8/Screenshot%202022-05-16%20191658.png)
 
-	
+![](https://github.com/DamarisRivera/InformeTarea/blob/8bc1dbf87f649a5c256956b0e7b28841ea259770/cap2.png)
 
 ##### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
