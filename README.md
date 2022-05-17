@@ -12,7 +12,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 	
 ## 2. Marco Teórico
 
-La notación cientifica varia 
+
 
 ## 3. Explicación y resolución de ejercicios 
 
@@ -271,13 +271,19 @@ La notación cientifica varia
 
 ##### 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
 
+![](https://github.com/DamarisRivera/InformeTarea/blob/b98807b17ffb528a283f975e772a6db94f8ed7bf/Screenshot%202022-05-16%20191350.png)
+
+![](https://github.com/DamarisRivera/InformeTarea/blob/fa159a22a9fa96aed599157826aed9e7a7e8760d/Imag_1_re_l1.png)
+
 ##### 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
 
 ![](https://github.com/DamarisRivera/InformeTarea/blob/c86e76143080b5916367e8989c039276b768604f/Screenshot%202022-05-16%20193022.png)
 
+	Son 10 kohms.
+
 ##### 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
 
-	
+	Son 19.999 recuentos de resolución.	
 
 ## 4. Video
 
