@@ -24,12 +24,12 @@ La notación cientifica varia
 	
 ##### 2. Exprese cada número fraccionario en notación científica: 
 
-	(a) 1/500                 →  0.002       →    2×10^(-3)		
-
-	(b) 1/2000                →  0.0005      →    5×10^(-4)
-
-	(c) 1/5,000,000           →  0.0000002   →    2×10^(-7) 
-
+	(a) 1/500               →  0.002       →    2×10^(-3)	
+	
+	(b) 1/2000              →  0.0005      →    5×10^(-4)
+	
+	(c) 1/5,000,000         →  0.0000002   →    2×10^(-7)
+	
 ##### 4. Exprese cada uno de los números siguientes en notación científica: 
 
 	(a) 0.0002 	                     →  2×10^(-4)
