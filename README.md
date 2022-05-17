@@ -224,8 +224,10 @@ La notación cientifica varia
 ##### *SECCIÓN 2-6 El circuito eléctrico*
 
 ##### 32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+![](image.png)
 
 
+##### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
 ## 4. Video
 
