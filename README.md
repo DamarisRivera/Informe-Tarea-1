@@ -253,7 +253,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ![](https://github.com/DamarisRivera/InformeTarea/blob/b98807b17ffb528a283f975e772a6db94f8ed7bf/Screenshot%202022-05-16%20191350.png)
 
-
+	Solo en el resistor R1
 
 ##### 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador
 
