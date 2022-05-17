@@ -74,35 +74,35 @@ La notación cientifica varia
 
 ##### 14. Exprese cada número en notación de ingeniería: 
 	
-	(a) 2.35x10^(5)    →
+	(a) 2.35x10^(5)    →   235.000      →    235x10^(3)
 	
-	(b) 7.32x10^(7)    →
+	(b) 7.32x10^(7)    →   73,200,000   →    73.2x10^(6)
 	
-	(c) 1.333x10^(9)   →
+	(c) 1.333x10^(9)   →   1,333,000,000  →   1.333x10^(9)
 	
 ##### 16. Exprese cada número en notación de ingeniería: 
 	
-	(a) 9.81x10^(-3)    →
+	(a) 9.81x10^(-3)    →   0.00980999999999999928  →   9.81x10^(-3)
 	
-	(b) 4.82x10^(-4)    →
+	(b) 4.82x10^(-4)    →   0.00048200000000000001  →   482x10^(-6)
 	
-	(c) 4.38x10^(-7)    →
+	(c) 4.38x10^(-7)    →   0.000000438   →  438x10^(-9)
 	
 ##### 18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería: 
 	
-	(a) (32x10^(-3))(56x10^(3))       →
+	(a) (32x10^(-3))(56x10^(3))       →    1792x10^(-3+3)  →    1792
 	
-	(b) (1.2x10^(-6))(1.2x10^-6))     →
+	(b) (1.2x10^(-6))(1.2x10^-6))     →    1.44x10^(-6-6)  →    1.44x10^(-12)
 	
-	(c) 100(55x10^(-3))               →
+	(c) 100(55x10^(-3))               →    5500x10^(-3)    →    5.5
 
 ##### 20. Exprese cada número del problema 13 en ohms por medio de un prefijo métrico. 
 
-	(a) 89,000                  →
+	(a) 89,000                  →     89x10^(3) Ω
 	
-	(b) 450,000                 →
+	(b) 450,000                 →     450x10^(3) Ω
 	
-	(c) 12,040,000,000,000      →
+	(c) 12,040,000,000,000      →     12x10^(12) Ω
 
 ##### 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: 
 	
