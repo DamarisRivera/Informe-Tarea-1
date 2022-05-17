@@ -277,6 +277,8 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ![](https://github.com/DamarisRivera/InformeTarea/blob/b237488369dfbbc795d8c860457f81023c0f9aea/Screenshot%202022-05-16%20191944.png)
 
+![](https://github.com/DamarisRivera/InformeTarea/blob/127bb2fb71fc33a6bcf4ddb040b02beeb166bc35/cap3.png)
+
 ##### *SECCIÓN 2-7 Mediciones de circuito básicas*
 
 ##### 38. Explique cómo mediría la resistencia de R2 en la figura 2-72
