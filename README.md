@@ -12,7 +12,11 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 	
 ## 2. Marco Teórico
 
+![](https://github.com/DamarisRivera/InformeTarea/blob/647683b398cdc17901103f4055571d2cff37d4fd/Grids%20and%20Lines%20Map%20Skills%20Education%20Infographic.png)
 
+![](https://github.com/DamarisRivera/InformeTarea/blob/bcdabb18e7548eca87465e0e8f32552b9feef6b7/1.png)
+
+![](https://github.com/DamarisRivera/InformeTarea/blob/bcdabb18e7548eca87465e0e8f32552b9feef6b7/2.png)
 
 ## 3. Explicación y resolución de ejercicios 
 
