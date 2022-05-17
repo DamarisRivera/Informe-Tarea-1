@@ -318,6 +318,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 ## 4. Video
 
+https://youtu.be/5AAn0yfvFlU
 
 ## 5. Conclusiones
 
