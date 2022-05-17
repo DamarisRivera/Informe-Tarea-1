@@ -229,6 +229,8 @@ La notación cientifica varia
 
 ##### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
+![](https://github.com/DamarisRivera/InformeTarea/blob/b98807b17ffb528a283f975e772a6db94f8ed7bf/Screenshot%202022-05-16%20191350.png)
+
 ## 4. Video
 
 
