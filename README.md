@@ -188,51 +188,59 @@ La notación cientifica varia
 
 ##### 14. 5.74x10^(17) electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
-	
+	I =
 
 ##### 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 	
-	(a) 0.1 S 
+	(a) 0.1 S     →   R = 1/G   →   R = 1/0.1 = 10 Ω 
 	
-	(b) 0.5 S 
+	(b) 0.5 S     →   R = 1/G   →   R = 1/0.5 = 2 Ω 
 	
-	(c) 0.02 S
+	(c) 0.02 S    →   R = 1/G   →   R = 1/0.02 = 50 Ω 
 	
 ##### *SECCIÓN 2-4 Fuentes de voltaje y de corriente*
 
 ##### 18. ¿En qué principio se basan los generadores eléctricos?
 
+	El principio de inducción electromagnética, es decir, se convierte la energía mecánica en energía eléctrica.
+
 ##### 20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿Cuál es la corriente en la carga?
+
+	
 
 ##### *SECCIÓN 2-5 Resistores*
 
 ##### 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
+	
+
 ##### 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
-	(a) café, negro, negro, oro
+	(a) café, negro, negro, oro       →  1 - 0 - 0 - ±5%   →  10 Ω ± 5%
 	
-	(b) verde, café, verde, plata
+	(b) verde, café, verde, plata     →  5 - 1 - 5 - ±10%  →  5.100.000 Ω ± 10%
 	
-	(c) azul, gris, negro, oro
+	(c) azul, gris, negro, oro        →  6 - 8 - 0 - ±5%   →  68 Ω ± 5%
 
 ##### 26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
 
-	(a) rojo, gris, violeta, rojo, café
+	(a) rojo, gris, violeta, rojo, café       →  2 - 8 - 7 - 2 - ±1%  →   28.700 ± 1%
 	
-	(b) azul, negro, amarillo, oro, café
+	(b) azul, negro, amarillo, oro, café      →  6 - 0 - 4 - x0.1 - ±1%  →   604x0.1 = 60.4 ± 1%
 	
-	(c) blanco, naranja, café, café, café
+	(c) blanco, naranja, café, café, café     →  9 - 3 - 1 - 1 - ±1%  →  9.310 ± 1%
 
 ##### 28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω , ¿Cuál es la resistencia entre cada terminal y el contacto ajustable?
 
+	
+
 ##### 30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
 	
-	(a) 4R7J 
+	(a) 4R7J     →  4.73 Ω  ± 5%
 	
-	(b) 5602M 
+	(b) 5602M    →  5602 MΩ
 	
-	(c) 1501F
+	(c) 1501F    →  1501 Ω ± 1%
 
 ##### *SECCIÓN 2-6 El circuito eléctrico*
 
@@ -240,9 +248,12 @@ La notación cientifica varia
 ![](https://github.com/DamarisRivera/InformeTarea/blob/9fd092473bde1a295aaeb916100351a0d61568f8/Screenshot%202022-05-16%20191658.png)
 
 
+
 ##### 34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
 
 ![](https://github.com/DamarisRivera/InformeTarea/blob/b98807b17ffb528a283f975e772a6db94f8ed7bf/Screenshot%202022-05-16%20191350.png)
+
+
 
 ##### 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador
 
