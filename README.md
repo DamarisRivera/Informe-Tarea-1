@@ -106,49 +106,49 @@ La notación cientifica varia
 
 ##### 22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico: 
 	
-	(a) 31x10^(-3) A   →
+	(a) 31x10^(-3) A   →     31 mA
 	
-	(b) 5.5x10^(3) V   →
+	(b) 5.5x10^(3) V   →     5.5 kV
 	
-	(c) 20x10^(-12) F  →
+	(c) 20x10^(-12) F  →     20 pF
 	
 ##### 24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos: 
 	
-	(a) 2.5x10^(-12) A     →
+	(a) 2.5x10^(-12) A     →   2.5 pA
 	
-	(b) 8x10^(9) Hz        →
+	(b) 8x10^(9) Hz        →   8 GHz
 	
-	(c) 4.7x10^(3) Ω       →
+	(c) 4.7x10^(3) Ω       →   4.7 kΩ
 	
 ##### 26. Exprese cada cantidad en notación de ingeniería: 
 	
-	(a) 5 μA         →  
+	(a) 5 μA         →  5x10^(-6) A
 	
-	(b) 43 mV        →
+	(b) 43 mV        →  43x10^(-3) V
 	
-	(c) 275 kΩ       →
+	(c) 275 kΩ       →  275x10^(3) Ω 
 	
-	(d) 10 MW        →
+	(d) 10 MW        →  10x10^(6) W
 
 ##### *SECCIÓN 1–4 Conversiones de unidades métricas*
 
 ##### 28. Determine lo siguiente: 
 	
-	(a) El número de microamperes en 1 miliampere 
+	(a) El número de microamperes en 1 miliampere    → 1000 microamperes
 	
-	(b) El número de milivolts en 0.05 kilovolts 
+	(b) El número de milivolts en 0.05 kilovolts     → 5000 milivolts
 	
-	(c) El número de megohms en 0.02 kilohms 
+	(c) El número de megohms en 0.02 kilohms         → 0.00002 megohms
 	
-	(d) El número de kilowatts en 155 miliwatts 
+	(d) El número de kilowatts en 155 miliwatts      → 0.000155 kilowatts
 	
 ##### 30. Realice las siguientes operaciones: 
 	
-	(a) 10 kΩ ÷ (2.2 kΩ + 10 kΩ)   →
+	(a) 10 kΩ ÷ (2.2 kΩ + 10 kΩ)   →  10x10^(3)/(2.2x10^(3) + 10x10^(3))   →  0.81967   →  8.1967x10^(-1)   
 	
-	(b) 250 mV ÷ 50 μA             →
+	(b) 250 mV ÷ 50 μA             →  250x10^(-3)/50x10^(-6)   →   5000    →  5x10^(3)
 	
-	(c) 1 MW ÷ 2kW                 →
+	(c) 1 MW ÷ 2kW                 →  1x10^(6)/2x10^(3)        →   500     →  5x10^(2)
 
 #### CAPÍTULO 2
 
