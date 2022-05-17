@@ -269,7 +269,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ![](https://github.com/DamarisRivera/InformeTarea/blob/1859a4fd9e32f4a28395534f126fae8e63d869a2/Screenshot%202022-05-16%20192409.png)
 
-
+![](https://github.com/DamarisRivera/InformeTarea/blob/588f3978987d7ea2dd02a9c1472e467c823261a3/Screenshot%202022-05-17%20000542-----12.png)
 
 ##### 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
 
