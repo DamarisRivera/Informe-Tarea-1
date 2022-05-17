@@ -258,6 +258,8 @@ La notación cientifica varia
 
 ## 5. Conclusiones
 
+- Explicar el procedimieento de los ejercicios realizados
+- Comprender los conceptos aplicados a cada problema propuesto.
 
 ## 6. Bibliografía
 
