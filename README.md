@@ -3,11 +3,11 @@
   
 ### 1.1 Objetivo General
         
-Entender los términos y ejercicios base de la materia utilando ejercicios ejercicios que permitan el entendimiento de los temas revisados.
+Aprender sobre las bases fundamentales que dan pie a la planteación de problemas sobre circuitos eléctricos, mediante la resolución de ejercicios planteados dentro de cada capítulo.
 	
 ### 1.2 Objetivos Específicos
         
-- Explicar el procedimieento de los ejercicios realizados
+- Explicar el procedimieento de los ejercicios realizados en cada capítulo.
 - Comprender los conceptos aplicados a cada problema propuesto.
 	
 ## 2. Marco Teórico
@@ -314,9 +314,10 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ## 5. Conclusiones
 
-- Explicar el procedimieento de los ejercicios realizados
-- Comprender los conceptos aplicados a cada problema propuesto.
+- De acuerdo a los ejercicios realizados se puede concluir que se necesita conocer la parte teórica de cada capítulo para poder resolver de manera correcta los problemas.
+
+- Gracias a la materia recibida durante la clase y el complemento que se realiza por investigación propia se logro el objetivo planteado de poder resolver y comprender los temas de cada capítulo.
 
 ## 6. Bibliografía
 
-
+Floyd, Thomas. 2007. Principios de circuitos eléctricos. Octava edición.
