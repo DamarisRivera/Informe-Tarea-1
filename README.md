@@ -231,6 +231,28 @@ La notación cientifica varia
 
 ![](https://github.com/DamarisRivera/InformeTarea/blob/b98807b17ffb528a283f975e772a6db94f8ed7bf/Screenshot%202022-05-16%20191350.png)
 
+##### 36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador
+
+![](https://github.com/DamarisRivera/InformeTarea/blob/b237488369dfbbc795d8c860457f81023c0f9aea/Screenshot%202022-05-16%20191944.png)
+
+##### *SECCIÓN 2-7 Mediciones de circuito básicas*
+
+##### 38. Explique cómo mediría la resistencia de R2 en la figura 2-72
+
+![](https://github.com/DamarisRivera/InformeTarea/blob/1859a4fd9e32f4a28395534f126fae8e63d869a2/Screenshot%202022-05-16%20192345.png)
+
+##### 40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor
+
+![](https://github.com/DamarisRivera/InformeTarea/blob/1859a4fd9e32f4a28395534f126fae8e63d869a2/Screenshot%202022-05-16%20192409.png)
+
+##### 42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70
+
+##### 44. ¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?
+
+![](https://github.com/DamarisRivera/InformeTarea/blob/c86e76143080b5916367e8989c039276b768604f/Screenshot%202022-05-16%20193022.png)
+
+##### 46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
 ## 4. Video
 
 
