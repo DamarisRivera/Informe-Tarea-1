@@ -166,7 +166,7 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ##### 4. ¿Cuántos electrones se requieren para producir 80 μC (microcoulombs) de carga?
 
-	
+	6.25x10^(10)^(18) * 80 = 500x10^(13) MC
 
 ##### *SECCIÓN 2-3 Voltaje, corriente y resistencia*
 
@@ -191,8 +191,10 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 	t = Q/I  →   t = 10 C/5 A    →   t = 2 s
 
 ##### 14. 5.74x10^(17) electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
-
-	I =
+	
+	5.74 X  1017 electrones/6.25 X 10^(18) electrones/C = 91.84x10^(-3) mC
+	
+	I=Q/t = 91.84/250 = 0.36736 A
 
 ##### 16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 	
@@ -216,7 +218,16 @@ Entender los términos y ejercicios base de la materia utilando ejercicios ejerc
 
 ##### 22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
+	(a) 27 kΩ ± 5%
 	
+	27,000*0.05 27,000*0.05 = 135Ω    →   27,000+135 27,000+135 = 27,135Ω 27,135Ω máxima
+	27,000*0.05 27,000*0.05 = 135Ω    →   27,000-135 =26,865Ω =26,865Ω Mínima
+
+	(b) 1.8 kΩ ± 10%
+	
+	1800*0.1 1800*0.1 =180Ω    →    1800 + 180=1,980Ω =1,980Ω máxima
+	00*0.1 1800*0.1 =180Ω      →    1800 -180 =1,620Ω =1,620Ω mínima
+1800*0.1 1800*0.1 =180Ω 1800 -180 =1,620Ω =1,620Ω mínima
 
 ##### 24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
 
