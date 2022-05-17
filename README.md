@@ -1,4 +1,11 @@
-# InformeTarea
+# Informe Tarea 1
+
+#### UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+##### CIRCUITOS ELÉCTRICOS
+##### NOMBRE: Damaris Rivera.
+##### NRC: 7318                                                                                                                  
+##### FECHA: 05 – 11 – 2022
+
 ## 1. Objetivos 
   
 ### 1.1 Objetivo General
