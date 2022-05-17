@@ -320,6 +320,7 @@ Aprender sobre las bases fundamentales que dan pie a la planteación de problema
 
 https://youtu.be/5AAn0yfvFlU
 
+
 ## 5. Conclusiones
 
 - De acuerdo a los ejercicios realizados se puede concluir que se necesita conocer la parte teórica de cada capítulo para poder resolver de manera correcta los problemas.
